@@ -39,3 +39,6 @@ def calibrationFunc(rawdata,biasdata,darkdata,flatdata,true_exptime,dark_exptime
 
     return data
 ```
+
+# Final Images Generated
+![Alt text](C:\Users\awgiu\Documents\.School\Fall 2020 (COVID ONLINE)\ASTR 310 (observ. astro)\Project1\Figure_1_Coadded_i_NGC7469raw?=true "NGC7469")
