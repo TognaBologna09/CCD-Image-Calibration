@@ -41,4 +41,5 @@ def calibrationFunc(rawdata,biasdata,darkdata,flatdata,true_exptime,dark_exptime
 ```
 
 # Final Images Generated
+![Alt text](https://github.com/TognaBologna09/CCD-Image-Calibration/blob/main/Figure_45_Calibrated_i_filter.png)
 ![Alt text](https://github.com/TognaBologna09/CCD-Image-Calibration/blob/main/Figure_1_Coadded_i_NGC7469.png)
